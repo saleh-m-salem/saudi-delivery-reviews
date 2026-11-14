@@ -4,6 +4,8 @@ What do customers of Saudi delivery apps complain about, and did the market chan
 
 I analyzed **46,025 Arabic Google Play reviews** of five apps: HungerStation, Jahez, Keeta, Mrsool and ToYou (January 2024 to October 2026).
 
+**[Open the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDlmZmUzYmQtYThlYS00YjFmLWE3MzYtNjRlM2Y0MmVlNTY5IiwidCI6IjBmZWQwM2EzLTQwMmQtNDYzMy1hOGNkLThiMzA4ODIyMjUzZSIsImMiOjEwfQ%3D%3D)** (interactive, no download needed)
+
 ![Overview page](images/overview.png)
 
 ## Key findings
@@ -90,4 +92,4 @@ Python (pandas, scipy, transformers), SQL Server, Power BI (DAX, star schema)
 
 ## Author
 
-Saleh Salem | [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
+Saleh Salem 
