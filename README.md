@@ -92,4 +92,4 @@ Python (pandas, scipy, transformers), SQL Server, Power BI (DAX, star schema)
 
 ## Author
 
-Saleh Salem 
+Saleh Salem | [LinkedIn](https://www.linkedin.com/in/saleh-m-salem)
